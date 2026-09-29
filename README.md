@@ -91,7 +91,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Revolut](https://www.revolut.com/) – Financial super app with banking, cards, and analytics.
 - [Emma](https://emma-app.com/) – Personal finance app for tracking spending and subscriptions.
 
-## Financial Data & Market APIs
+- [Ghost Money](https://ghost-money.surge.sh/) – Free, no-sign-up board that marks common 2026 US rebate, tax-credit, and forgiveness ads Alive/Dead/Changed with IRS/agency sources, plus an in-browser paste-an-ad checker.
+
+- ## Financial Data & Market APIs
 
 - [Bloomberg](https://www.bloomberg.com/professional/) – Financial data, analytics, and news platform.
 - [Refinitiv](https://www.refinitiv.com/) – Market data and financial infrastructure provider.
